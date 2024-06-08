@@ -1,4 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 # Ignore G-Code from language statistics
-GCode/* linguist-vendored
+*.gcode linguist-vendored
